@@ -1,6 +1,6 @@
 # Examples Hibernate (basic)
 
-Basic examples for Hibernate, using associations Many to Many and DB MySQL
+Basic examples for Hibernate, using association Many to Many and DB MySQL
 
 Technologies:
 - Java 8
